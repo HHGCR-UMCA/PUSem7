@@ -7,9 +7,9 @@ namespace PUSem7Test
     public class UnitTest1
     {
 
-        [DataRow(4, 1, 8)]
+        [DataRow(4, 2, 8)]
         [DataRow(4, 5, 9)]
-        [DataRow(5, 5, 10)]
+        [DataRow(5, 5, 10)]0918
         [TestMethod]
         public void Suma_RetornaValor(int a, int b, int esperado)
         {
