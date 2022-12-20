@@ -8,9 +8,7 @@ namespace PUSem7Test
     {
 
 
-
-
-        [DataRow(4, 4, 8)]
+        [DataRow(4, 2, 8)]
         [DataRow(4, 5, 9)]
         [DataRow(5, 5, 10)]
         [TestMethod]
